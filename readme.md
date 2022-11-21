@@ -1,6 +1,6 @@
 # Steps to create react app with webpack
 
- - Install react and react-dom
+ - Install react and react-dom <br> 
     npm install react react-dom
  - Create src folder and file index.js inside the folder
 
