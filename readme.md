@@ -2,14 +2,14 @@
 
  - Install react and react-dom <br> 
     npm install react react-dom
- - Create src folder and file index.js inside the folder
+ - Create src folder and create a file - index.js inside the src folder
 
  - Install webpack, webpack-cli & webpack-dev-server, @babel/core, @babel/preset-env, @babel/preset-react, babel-loader as dev dependency
   
    npm i webpack webpack-cli webpack-dev-server @babel/core @babel/node @babel/preset-env @babel/preset-react babel-loader -D 
 
-create webpack.config.js with html plugin and babel loader
-copy the content from webpack config inside the project and paste it
+ - Create webpack.config.js with html plugin and babel loader
+ - Copy the content from webpack config inside the project.
 
-Command to build bundle js
-npx webpack --mode development
+ - Command to build bundle js
+   npx webpack --mode development
