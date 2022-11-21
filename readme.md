@@ -1,4 +1,4 @@
-# Steps to create react app with webpack
+# Steps to create a basic react app with webpack
 
  - Install react and react-dom <br> 
     npm install react react-dom
